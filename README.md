@@ -1,4 +1,5 @@
 <!-- Cassiel's Rating of Filipino Food -->
+ <h1> <strong> <em>Cassiel Rates Filipino Food</em></strong> </h1>
 <div style="background-color: #e6f7ff; padding:16px; margin:16px 0; border-radius:10px;">
   <h1><strong>Sinigang</strong></h1>
   <p>A tamarind-based soup filled with tender pork and various vegetables.</p>
@@ -20,7 +21,7 @@
     Recipe List and How to Make
   </a>
   <p>Rating: ⭐⭐⭐⭐☆</p>
-  <p><strong>Cassiel's notes:</strong> A very hearty meal that can be pretty oily and unhealthy. I like the aspect of it being served on a sizzling plate because it keeps the dish hot even when it's served. However, if eaten in moderation it's good.</p>
+  <p><strong>Cassiel's notes:</strong> A very hearty meal that can be pretty oily and unhealthy. However, if eaten in moderation, it's good. I like the aspect of it being served on a sizzling plate because it keeps the dish hot even when it's served.</p>
 </div>
 
 <div style="background-color: #f9f9e6; padding:16px; margin:16px 0; border-radius:10px;">
