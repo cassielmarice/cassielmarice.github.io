@@ -13,7 +13,7 @@
 
 <div style="background-color: #fff0e6; padding:16px; margin:16px 0; border-radius:10px;">
   <h1><strong>Sisig</strong></h1>
-  <p>A sizzling dish made from chopped pork, onions, and chili peppers.</p>
+  <p>A sizzling dish made from chopped up pork, diced onions, and chili peppers.</p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Sizzling_Sisig.jpg" alt="Sisig dish">
   <p><em>Image Credit: Wikimedia Commons, User <a href="https://commons.wikimedia.org/wiki/File:Sizzling_Sisig.jpg" target="_blank">ManilaMalate</a></em></p>
   <a href="https://www.iankewks.com/pork-belly-sisig/" target="_blank">
