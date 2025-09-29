@@ -1,4 +1,4 @@
-<!-- Cassiel's Rating of Filipino Food -->
+
  <h1> <strong> <em>Cassiel Rates Filipino Food</em></strong> </h1>
 <div style="background-color: #e6f7ff; padding:16px; margin:16px 0; border-radius:10px;">
   <h1><strong>Sinigang</strong></h1>
@@ -15,7 +15,7 @@
 <div style="background-color: #fff0e6; padding:16px; margin:16px 0; border-radius:10px;">
   <h1><strong>Sisig</strong></h1>
   <p>A sizzling dish made from chopped up pork, diced onions, and chili peppers.</p>
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/f/f1/Sizzling_Sisig.jpg](https://upload.wikimedia.org/wikipedia/commons/4/48/Sizzling_Sisig.jpg)" alt="Sisig dish">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Sizzling_Sisig.jpg" alt="Sisig dish">
   <p><em>Image Credit: Wikimedia Commons, User <a href="https://commons.wikimedia.org/wiki/File:Sizzling_Sisig.jpg" target="_blank">ManilaMalate</a></em></p>
   <a href="https://www.iankewks.com/pork-belly-sisig/" target="_blank">
     Recipe List and How to Make
@@ -23,6 +23,7 @@
   <p>Rating: ⭐⭐⭐⭐☆</p>
   <p><strong>Cassiel's notes:</strong> A very hearty meal that can be pretty oily and unhealthy. However, if eaten in moderation, it's good. I like the aspect of it being served on a sizzling plate because it keeps the dish hot even when it's served.</p>
 </div>
+
 
 <div style="background-color: #f9f9e6; padding:16px; margin:16px 0; border-radius:10px;">
   <h1><strong>Kare-Kare</strong></h1>
